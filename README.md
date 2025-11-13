@@ -4,6 +4,9 @@
 
 - <b>Bird Watching Mobile Application for the RSPB Big Garden Birdwatch</b>
   - [Front End UI with User Accounts Stored Locally Including Login Page, Counting Page and Accessibility Options](https://github.com/SamSandersProfessional/BirdCountingMobileApplication)
+  </br>
+  <img width=40% height=40% alt="BirdWatchMobileApplication" src="https://github.com/user-attachments/assets/5f82bdd0-b195-4b3b-bcc2-a48a8c3ddc00"/>
+
  
 - <b>Parking Management Service for the University of East Anglia</b>
   - [Included a Front End UI with an Informational carousel element and a Back End Database for Storing Bookings Securely](https://github.com/SamSandersProfessional/UEAParking)
