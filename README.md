@@ -9,7 +9,7 @@
 
 - <b>UEA Kart Club Homepage Design</b>
   - [Personal Project to Create an Interactive Homepage to Display Information About the Drivers on the Team using Event Listeners](https://github.com/SamSandersProfessional/UEAKartClubInitialDesign)
-    <img width="3439" height="1271" alt="image" src="https://github.com/user-attachments/assets/3fb555ce-34c9-4a40-98ac-0e7894fb9578" />
+    <img width=100% height=100% alt="image" src="https://github.com/user-attachments/assets/3fb555ce-34c9-4a40-98ac-0e7894fb9578" />
 
 </br>
 
