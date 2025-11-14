@@ -3,8 +3,9 @@
 <h2>UX Design Projects:</h2>
 
 - <b>Web Application for Booking Goods and Services</b>
-  - [Front End UI with Tiles Making a Feed for End Users to Scroll Through. Backend Database for User Logins](https://github.com/SamSandersProfessional/BirdCountingMobileApplication)
+  - [Using a Front End UI to Present a Feed to the End User with Tiles and a Backend Database for User Logins](https://github.com/SamSandersProfessional/CapeYorkConnectedWebApplication)
     <img width=100% height=100% alt="image" src="https://github.com/user-attachments/assets/c4ec2160-2548-47b7-99cb-54a7b500fc15" />
+</br>
 
 - <b>UEA Kart Club Homepage Design</b>
   - [Personal Project to Create an Interactive Homepage to Display Information About the Drivers on the Team using Event Listeners](https://github.com/SamSandersProfessional/UEAKartClubInitialDesign)
