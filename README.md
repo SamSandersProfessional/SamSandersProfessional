@@ -1,7 +1,7 @@
-<h1>Welcome to my UX Portfolio! <br/></h1>
+<h1>Welcome to my Portfolio! <br/></h1>
 Click on Each Example to see Detailed Descriptions of Each Page of the Websites/Applications and UX Principles Used.
 
-<h2>UX Design Projects:</h2>
+<h2>Previous Projects:</h2>
 
 - <b>Web Application for Booking Goods and Services</b>
   - [Using a Front End UI to Present a Feed to the End User with Tiles and a Backend Database for User Logins](https://github.com/SamSandersProfessional/CapeYorkConnectedWebApplication)
