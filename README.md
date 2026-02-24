@@ -1,5 +1,5 @@
 <h1>Welcome to my Portfolio! <br/></h1>
-Click on Each Example to see Detailed Descriptions of Each Page of the Websites/Applications and UX Principles Used.
+Click on Each Example to see Detailed Descriptions of Each Page of the Websites/Applications.
 
 <h2>Previous Projects:</h2>
 
