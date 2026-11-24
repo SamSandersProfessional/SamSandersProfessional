@@ -5,7 +5,7 @@ Click on Each Example to see Detailed Descriptions of Each Page of the Websites/
 
 - <b>Critical Vulnerabilities Against Major Releases of LLMs</b>
   - [Personal Project to Investigate if the Releases of Popular LLMs can have an Impact on Reported Vulnerabilties](https://github.com/SamSandersProfessional/Critical-Vulnerabilities-Against-Major-Releases-of-LLMs)
-    <img width=80% height=80% alt="Critical Vulnerabilities Against Major Releases of LLMs (1)" src="https://github.com/user-attachments/assets/497bc31c-061f-47c3-ae6d-aef6a4e4d61d" />
+    <img width=80% height=80% alt="Critical Vulnerabilities Against Major Releases of LLMs" src="https://github.com/user-attachments/assets/161b330d-33f3-4dbb-b5b8-78e61cc57d38" />
 </br>
 
 - <b>Web Application for Booking Goods and Services</b>
