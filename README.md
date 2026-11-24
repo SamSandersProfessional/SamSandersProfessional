@@ -3,6 +3,11 @@ Click on Each Example to see Detailed Descriptions of Each Page of the Websites/
 
 <h2>Previous Projects:</h2>
 
+- <b>Critical Vulnerabilities Against Major Releases of LLMs</b>
+  - [Personal Project to Investigate if the Releases of Popular LLMs can have an Impact on Reported Vulnerabilties](https://github.com/SamSandersProfessional/Critical-Vulnerabilities-Against-Major-Releases-of-LLMs)
+    <img width=80% height=80% alt="Critical Vulnerabilities Against Major Releases of LLMs (1)" src="https://github.com/user-attachments/assets/497bc31c-061f-47c3-ae6d-aef6a4e4d61d" />
+</br>
+
 - <b>Web Application for Booking Goods and Services</b>
   - [Using a Front End UI to Present a Feed to the End User with Tiles and a Backend Database for User Logins](https://github.com/SamSandersProfessional/CapeYorkConnectedWebApplication)
     <img width=100% height=100% alt="image" src="https://github.com/user-attachments/assets/c4ec2160-2548-47b7-99cb-54a7b500fc15" />
